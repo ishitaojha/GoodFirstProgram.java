@@ -9,7 +9,7 @@ public class GoodFirstProgram
 		System.out.println( "This is fun");
 		System.out.println( "Yay! Printing.");
 		System.out.println( "I'd much rather you 'not'.");
-		System.out.println( "I \"said\" do not touch this");
+		
 		System.out.println( "/Learning java is powerful");
 	}
 }
